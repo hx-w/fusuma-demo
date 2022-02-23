@@ -9,8 +9,8 @@ slide:
   ui:
     sidebar: true
     vertical: false
-    pagination: progressbar # bullets | progressbar | fraction
-    effect: flip # fade | cube | flip
+    pagination: bullets # bullets | progressbar | fraction
+    effect: fade # fade | cube | flip
   code:
     # https://prismjs.com/
     plugins: []
