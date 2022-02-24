@@ -68,8 +68,7 @@ f 2// 3// 4//
 
 ## Step-1
 
-<!-- fragments-start -->
-
+```md
 [STEP 1.1] Remove seed triangle
 
 [STEP 1.2 *] Remove some edge and triangle
@@ -79,9 +78,7 @@ f 2// 3// 4//
 [STEP 1.4] Straighten the loops if exists 
 
 [STEP 1.5] If no vertex left, add back two edges
-
-<!-- fragments-end -->
-
+```
 ---
 
 <!-- section-title: Bye👋 -->
