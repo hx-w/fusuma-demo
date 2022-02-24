@@ -1,14 +1,14 @@
-<!-- classes: title -->
+<!-- section-title: Cover -->
 
 # Cutting Algorithm
 
-<!-- block-start: grid -->
+<br />
+
 by He Xiang
-<!-- block-end -->
 
 ---
 
-<!-- classes: pop -->
+<!-- section-title: Overview -->
 
 ## Algorithm Overview
 
@@ -47,7 +47,7 @@ f 2// 3// 4//
 
 ---
 
-<!--classes: node -->
+<!-- section-title: Total Steps-->
 
 ## Algorithm Steps
 
@@ -61,6 +61,26 @@ f 2// 3// 4//
 ```
 <!-- block-end -->
 <!-- block-end -->
+
+---
+
+<!-- section-title: Step-1 -->
+
+## Step-1
+
+<!-- fragments-start -->
+
+[STEP 1.1] Remove seed triangle
+
+[STEP 1.2 *] Remove some edge and triangle
+
+[STEP 1.3 *] Remove some vertex and edge
+
+[STEP 1.4] Straighten the loops if exists 
+
+[STEP 1.5] If no vertex left, add back two edges
+
+<!-- fragments-end -->
 
 ---
 
