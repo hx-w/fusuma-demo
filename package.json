@@ -10,5 +10,9 @@
   },
   "devDependencies": {
     "fusuma": "^2.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hx-w/fusuma-demo.git"
   }
 }
