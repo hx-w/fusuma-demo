@@ -20,23 +20,19 @@ by He Xiang
 [INPUT]
 
 2-manifold triangle mesh M (irregular) 
-```
 
-<br />
 
-```
 [OUTPUT]
 
 Final cut  (set of edges)
 ```
 
-
 <!-- block-end -->
 <!-- block-start: column, left -->
 
-```md
 obj file format
 
+```md
 v 1.0 1.0 1.0
 
 v 2.0 2.0 2.0
@@ -73,6 +69,9 @@ f 2// 3// 4//
 
 ## STEP 1
 
+<!-- block-start: grid -->
+<!-- block-start: column, left -->
+
 ```
 [STEP 1.1] Remove seed triangle
 
@@ -84,15 +83,29 @@ f 2// 3// 4//
 
 [STEP 1.5] If no vertex left, add back two edges
 ```
+
+<!-- block-end -->
+<!-- block-end -->
+
 ---
+
+<!-- block-start: grid -->
+<!-- block-start: row -->
 
 ### [STEP 1.2]
 
-![step1.2](https://ibed.csgowiki.top/image/20220224103546.png)
+<img src="https://ibed.csgowiki.top/image/20220224103546.png" alt="step1.2" style="zoom:50%;" />
+
+<!-- block-end -->
+
+<!-- block-start: row -->
 
 ### [STEP 1.3]
 
-![step1.3](https://ibed.csgowiki.top/image/20220224103613.png)
+<img src="https://ibed.csgowiki.top/image/20220224103613.png" alt="step1.3" style="zoom:50%;" />
+
+<!-- block-end -->
+<!-- block-end -->
 
 ---
 
