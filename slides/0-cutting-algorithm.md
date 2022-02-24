@@ -20,7 +20,11 @@ by He Xiang
 [INPUT]
 
 2-manifold triangle mesh M (irregular) 
+```
 
+<br />
+
+```
 [OUTPUT]
 
 Final cut  (set of edges)
@@ -30,7 +34,7 @@ Final cut  (set of edges)
 <!-- block-end -->
 <!-- block-start: column, left -->
 
-```
+```md
 obj file format
 
 v 1.0 1.0 1.0
@@ -57,6 +61,7 @@ f 2// 3// 4//
 ```
 [STEP 1] Find topologically-sufficient cut
 
+
 [STEP 2] Augment cut
 ```
 <!-- block-end -->
@@ -66,9 +71,9 @@ f 2// 3// 4//
 
 <!-- section-title: Step-1 -->
 
-## Step-1
+## STEP 1
 
-```md
+```
 [STEP 1.1] Remove seed triangle
 
 [STEP 1.2 *] Remove some edge and triangle
@@ -79,6 +84,16 @@ f 2// 3// 4//
 
 [STEP 1.5] If no vertex left, add back two edges
 ```
+---
+
+### [STEP 1.2]
+
+![step1.2](https://ibed.csgowiki.top/image/20220224103546.png)
+
+### [STEP 1.3]
+
+![step1.3](https://ibed.csgowiki.top/image/20220224103613.png)
+
 ---
 
 <!-- section-title: Bye👋 -->
