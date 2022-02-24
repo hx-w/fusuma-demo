@@ -90,21 +90,15 @@ f 2// 3// 4//
 ---
 
 <!-- block-start: grid -->
-<!-- block-start: row -->
 
 ### [STEP 1.2]
 
 <img src="https://ibed.csgowiki.top/image/20220224103546.png" alt="step1.2" style="zoom:50%;" />
 
-<!-- block-end -->
-
-<!-- block-start: row -->
-
 ### [STEP 1.3]
 
 <img src="https://ibed.csgowiki.top/image/20220224103613.png" alt="step1.3" style="zoom:50%;" />
 
-<!-- block-end -->
 <!-- block-end -->
 
 ---
