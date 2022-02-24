@@ -1,12 +1,13 @@
 {
   "name": "scubot-ppt",
   "author": "hx-w",
+  "version": "1.0.0",
   "scripts": {
-  "start": "fusuma start",
-  "start:prod": "fusuma start-prod",
-  "build": "fusuma build",
-  "deploy": "npm run build && fusuma deploy",
-  "pdf": "npm run build && fusuma pdf"
+    "start": "fusuma start",
+    "start:prod": "fusuma start-prod",
+    "build": "fusuma build",
+    "deploy": "npm run build && fusuma deploy",
+    "pdf": "npm run build && fusuma pdf"
   },
   "devDependencies": {
     "fusuma": "^2.8.4"
